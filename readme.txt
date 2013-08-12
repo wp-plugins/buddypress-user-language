@@ -11,12 +11,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Buddypress User Language is a Buddypress extension that allows users to set the language displayed in the back-end and front-end of your Buddypress site.
 The available languages are taken from the current theme and the wordpress installation.
 This plugin requires 'Buddypress' and 'User Language Switch' to be installed in order to work. 
-The User Language Switch plugin can be downloaded from: http://wordpress.org/plugins/user-language-switch/ and its documentation is available at: http://www.webilop.com/products/user-language-switch-wordpress-plugin/
-
 
 = Localization =
 
 *English (default).
+
 *Spanish
 
 = Documentation =
@@ -29,9 +28,9 @@ Documentation in spanish is also available: http://www.webilop.com/productos/plu
 This section describes how to install the plugin and get it working.
 
 1. Install the 'User Language Switch' plugin and follow the configuration steps available at: http://www.webilop.com/products/user-language-switch-wordpress-plugin/
-2. Upload the `uls-buddypress` folder to the `/wp-content/plugins/` directory
+2. Upload the `buddypress-user-language` folder to the `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
-4. Once you have activated the plugin, you will see in your member page in the frontend, anew tab called "Language". Click on the tab and select the language you want to be displayed in the frontend and backend.
+4. Once you have activated the plugin, you will see in your member page in the frontend, a new tab called "Language". Click on the tab and select the language you want to be displayed in the frontend and backend.
 
 
 == Frequently Asked Questions ==
